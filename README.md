@@ -1,4 +1,4 @@
 SwiftCollectionView
 ===================
 
-Being a minimal implementation in Swift of a UICollectionView with a flow layout
+Being a minimal implementation in Swift of a `UICollectionView` with a flow layout
