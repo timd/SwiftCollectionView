@@ -12,6 +12,7 @@
 		224CF05F197BB83F0063F7CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 224CF05D197BB83F0063F7CF /* Main.storyboard */; };
 		224CF061197BB83F0063F7CF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 224CF060197BB83F0063F7CF /* Images.xcassets */; };
 		224CF06D197BB83F0063F7CF /* SwiftCollectionViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224CF06C197BB83F0063F7CF /* SwiftCollectionViewTests.swift */; };
+		224CF079197BBB4B0063F7CF /* CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 224CF078197BBB4B0063F7CF /* CollectionViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		224CF066197BB83F0063F7CF /* SwiftCollectionViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCollectionViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		224CF06B197BB83F0063F7CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		224CF06C197BB83F0063F7CF /* SwiftCollectionViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCollectionViewTests.swift; sourceTree = "<group>"; };
+		224CF078197BBB4B0063F7CF /* CollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				224CF059197BB83F0063F7CF /* AppDelegate.swift */,
 				224CF05B197BB83F0063F7CF /* ViewController.swift */,
 				224CF05D197BB83F0063F7CF /* Main.storyboard */,
+				224CF078197BBB4B0063F7CF /* CollectionViewCell.xib */,
 				224CF060197BB83F0063F7CF /* Images.xcassets */,
 				224CF057197BB83F0063F7CF /* Supporting Files */,
 			);
@@ -191,6 +194,7 @@
 			files = (
 				224CF05F197BB83F0063F7CF /* Main.storyboard in Resources */,
 				224CF061197BB83F0063F7CF /* Images.xcassets in Resources */,
+				224CF079197BBB4B0063F7CF /* CollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
